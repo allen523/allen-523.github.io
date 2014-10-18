@@ -1,0 +1,27 @@
+/*global*/
+body {
+	margin: 0 auto;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+
+
+/*header*/
+.header_wrapper{
+     position: relative;
+}
+
+
+/*content*/
+
+
+/*footer*/
